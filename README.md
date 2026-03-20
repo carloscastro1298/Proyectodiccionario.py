@@ -18,14 +18,15 @@ It also uses functions to organize the logic of the program, making the code mor
 
 The program follows a modular structure based on functions.
 Each function has a specific responsibility inside the system.
-Main components:
 
-    System data container: stores clients, products, orders, and the order counter.
-    Validation functions: verify that text fields are not empty and that numeric values are valid and positive.
-    Registration functions: register clients and products in the system.
-    Order management functions: create orders and calculate order totals.
-    Reporting functions: consult orders, calculate daily income, group orders by client, summarize sold products, and generate the final report.
-    Menu functions: display the menu, process user options, and run the system loop.
+## Main components:
+
+System data container: stores clients, products, orders, and the order counter.
+Validation functions: verify that text fields are not empty and that numeric values are valid and positive.
+Registration functions: register clients and products in the system.
+Order management functions: create orders and calculate order totals.
+Reporting functions: consult orders, calculate daily income, group orders by client, summarize sold products, and generate the final report.
+Menu functions: display the menu, process user options, and run the system loop.
 
 Instructions to Run the Program
 
