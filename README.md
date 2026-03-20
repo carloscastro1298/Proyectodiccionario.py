@@ -1,11 +1,9 @@
-Team
-
+# Team
 This project was developed by:
-
 María Noriega
-
 Carlos Castro
-Customer Order Management System
+
+# Customer Order Management System
 Project Description
 
 This project is a terminal-based Customer Order Management System developed in Python.
