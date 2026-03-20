@@ -4,9 +4,7 @@
 
 ## Description
 
-This project is a simple customer order management system developed in Python.
-It was created as part of my learning process at Riwi, where I am currently starting to learn programming.
-The system allows managing basic information about clients, products, and orders in an organized way.
+This project is a simple customer order management system developed in Python. We created it as part of our learning process at Riwi, where we are currently beginning to learn programming. The system allows for the organized management of basic information about customers, products, and orders.
 
 ## Team
 
