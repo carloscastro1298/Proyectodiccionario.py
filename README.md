@@ -22,30 +22,41 @@ Each function has a specific responsibility inside the system.
 ## Main components:
 
 System data container: stores clients, products, orders, and the order counter.
+
 Validation functions: verify that text fields are not empty and that numeric values are valid and positive.
+
 Registration functions: register clients and products in the system.
+
 Order management functions: create orders and calculate order totals.
+
 Reporting functions: consult orders, calculate daily income, group orders by client, summarize sold products, and generate the final report.
+
 Menu functions: display the menu, process user options, and run the system loop.
 
-Instructions to Run the Program
 
-    Make sure Python 3 is installed on your computer.
-    Save the file as sistema_pedido.py or any preferred name.
-    Open a terminal in the folder where the file is located.
-    Run the program with the following command:
+## Instructions to Run the Program
+
+1. Make sure Python 3 is installed on your computer.
+2. Save the file as sistema_pedido.py or any preferred name.
+3. Open a terminal in the folder where the file is located.
+4. Run the program with the following command:
 
 sistema_pedido.py
 
-    Use the menu options displayed in the terminal:
+5. Use the menu options displayed in the terminal:
+Register client
 
-    Register client
-    Register product
-    Create order
-    Consult orders
-    Calculate daily income
-    Generate final report
-    Exit
+Register product
+
+Create order
+
+Consult orders
+
+Calculate daily income
+
+Generate final report
+
+Exit
 
 Data Structures Used
 1. Dictionaries
