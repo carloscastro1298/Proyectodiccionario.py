@@ -1,6 +1,8 @@
 # Team
 This project was developed by:
+
 María Noriega
+
 Carlos Castro
 
 # Customer Order Management System
