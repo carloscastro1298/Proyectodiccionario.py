@@ -6,14 +6,15 @@ María Noriega
 Carlos Castro
 
 # Customer Order Management System
-Project Description
+## Project Description
 
 This project is a terminal-based Customer Order Management System developed in Python.
 The system allows the user to register clients, register products, create orders, consult registered orders, calculate daily income, and generate a final sales report.
 
 The solution was built using dictionaries and tuples as the main data structures, following the challenge requirements.
 It also uses functions to organize the logic of the program, making the code more modular, clear, and reusable.
-System Architecture
+
+## System Architecture
 
 The program follows a modular structure based on functions.
 Each function has a specific responsibility inside the system.
